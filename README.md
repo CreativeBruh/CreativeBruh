@@ -8,17 +8,40 @@ I'm currently expanding my skills in **Active Directory, Microsoft 365 administr
 
 This portfolio showcases the projects and labs I've built to develop practical experience across **IT support, identity and access management, endpoint administration, networking, and cloud technologies**.
 
+---
 
 ## 🛠️ Technical Skills
 
-**IT Support & Administration**
-- Windows 10/11, Microsoft 365, ServiceNow, hardware/software troubleshooting, remote support
+### 💻 IT Support & Administration
+- Windows 10/11
+- Microsoft 365
+- ServiceNow
+- Azure Virtual Desktop (AVD)
+- Hardware & software troubleshooting
+- Remote user support
+- Enterprise application support
 
-**Identity & Access**
-- Active Directory, Microsoft 365 user administration, Okta, MFA, permissions & access troubleshooting
+### 🔐 Identity & Access Management
+- Active Directory
+- Microsoft 365 user administration
+- Okta
+- User & group management
+- Password resets & account access
+- MFA troubleshooting
+- Permissions & role-based access control (RBAC)
 
-**Networking**
-- TCP/IP, DNS, DHCP, VLANs, switching, routing fundamentals, Cisco Meraki, VMware VeloCloud
+### 🌐 Networking
+- TCP/IP, DNS, DHCP
+- VLANs & subnetting
+- Switching & routing fundamentals
+- Cisco Meraki
+- VMware VeloCloud (SD-WAN)
+- Network connectivity troubleshooting
 
-**Security**
-- Identity & access security, least privilege, incident analysis, network security fundamentals
+### 🛡️ Security
+- CompTIA Security+
+- Identity & access security
+- Least privilege & access control
+- Network traffic analysis
+- Incident analysis & documentation
+- Security fundamentals
