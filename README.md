@@ -45,3 +45,33 @@ This portfolio showcases the projects and labs I've built to develop practical e
 - Network traffic analysis
 - Incident analysis & documentation
 - Security fundamentals
+---
+
+## 🚀 Featured Projects
+
+### 🖥️ Active Directory Lab
+**Windows Server • Active Directory • Group Policy • RBAC**
+
+Built a Windows domain environment to develop hands-on experience with enterprise identity and access administration. Configured organizational units, users, groups, delegated permissions, and Help Desk role-based access controls.
+
+🔗 **[View Active Directory Lab](YOUR-AD-REPOSITORY-LINK)**
+
+---
+
+### ☁️ Microsoft 365 Administration Lab
+**Microsoft 365 • Exchange Online • Identity & Access • Mail Flow**
+
+Built a simulated Microsoft 365 Help Desk environment focused on common administrative and support tasks, including user management, shared mailboxes, mail flow configuration, and troubleshooting.
+
+🔗 **[View Microsoft 365 Administration Lab](YOUR-M365-REPOSITORY-LINK)**
+
+---
+
+### 🛡️ Cybersecurity Incident Analysis
+**NIST Cybersecurity Framework • Network Traffic Analysis • Incident Response**
+
+Analyzed an ICMP-based denial-of-service incident using the NIST Cybersecurity Framework. Documented the root cause, identified firewall configuration weaknesses, and developed recommendations to reduce future risk.
+
+🔗 **[View Incident Analysis](YOUR-SECURITY-REPOSITORY-LINK)**
+
+---
