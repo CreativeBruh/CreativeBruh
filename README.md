@@ -26,15 +26,6 @@ Built a simulated Microsoft 365 Help Desk environment focused on common administ
 
 ---
 
-### 🛡️ Cybersecurity Incident Analysis
-**NIST Cybersecurity Framework • Network Traffic Analysis • Incident Response**
-
-Analyzed an ICMP-based denial-of-service incident using the NIST Cybersecurity Framework. Documented the root cause, identified firewall configuration weaknesses, and developed recommendations to reduce future risk.
-
-🔗 **[View Incident Analysis](https://github.com/CreativeBruh/Cybersecurity-Incident-Report-Network-Traffic-Analysis)**
-
----
-
 ## 📫 Connect With Me
 
 I'm open to opportunities in IT Support, Desktop Support, Systems Administration, and related infrastructure roles.
