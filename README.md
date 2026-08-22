@@ -75,3 +75,9 @@ Analyzed an ICMP-based denial-of-service incident using the NIST Cybersecurity F
 🔗 **[View Incident Analysis](https://github.com/CreativeBruh/Cybersecurity-Incident-Report-Network-Traffic-Analysis)**
 
 ---
+## 📫 Connect With Me
+
+I'm open to opportunities in IT Support, Desktop Support,
+Systems Administration, and related infrastructure roles.
+
+[LinkedIn](https://www.linkedin.com/in/jose-solorzano-b9bb853a1/)
