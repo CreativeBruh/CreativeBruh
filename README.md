@@ -26,6 +26,15 @@ Built a simulated Microsoft 365 Help Desk environment focused on common administ
 
 ---
 
+### 🐳 Self-Hosted Nextcloud Home Lab
+**Ubuntu Server • Docker Compose • MariaDB • Tailscale • Networking**
+
+Built a self-hosted cloud environment to securely access files and study materials across devices. Deployed Nextcloud and MariaDB with Docker Compose, managed containers with Portainer, configured VirtualBox networking and SSH administration, and enabled secure remote access with Tailscale.
+
+🔗 **[View Self-Hosted Nextcloud Home Lab](...)**
+
+---
+
 ## 📫 Connect With Me
 
 I'm open to opportunities in IT Support, Desktop Support, Systems Administration, and related infrastructure roles.
